@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
+    "newArchEnabled": true,
     "splash": {
       "backgroundColor": "#2E1A47"
     },
@@ -21,13 +22,14 @@
       "bundleIdentifier": "com.wordwheel.game",
       "supportsTablet": false
     },
-    
     "extra": {
       "eas": {
         "projectId": "c65d72a1-1b6a-4a58-a41d-0fbf11c01cac"
       }
     },
-    "owner": "abha123"
-
+    "owner": "abha123",
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
