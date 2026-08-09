@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "letters": ["T", "C", "A", "R"],
+    "words": ["CART", "CAT", "CAR", "ART", "ACT", "ARC", "RAT", "TAR"]
+  },
+  {
+    "id": 2,
+    "letters": ["T", "A", "E", "S"],
+    "words": ["SEAT", "SATE", "TEAS", "EATS", "EAT", "TEA", "SEA", "SET", "ATE"]
+  },
+  {
+    "id": 3,
+    "letters": ["S", "P", "L", "A", "M"],
+    "words": ["LAMPS", "PALMS", "LAMP", "PALM", "SLAM", "MAPS", "SAP", "LAP", "PAL"]
+  },
+  {
+    "id": 4,
+    "letters": ["E", "N", "O", "T", "S"],
+    "words": ["STONE", "NOTES", "TONES", "NOSE", "TONE", "NOTE", "ONES", "SENT", "NEST", "TEN"]
+  },
+  {
+    "id": 5,
+    "letters": ["E", "G", "R", "A", "P"],
+    "words": ["GRAPE", "GEAR", "PAGE", "REAP", "PEAR", "GAPE", "RAGE", "APE", "AGE", "EAR"]
+  },
+  {
+    "id": 6,
+    "letters": ["E", "P", "L", "A", "T"],
+    "words": ["PLATE", "PETAL", "PLEAT", "LEAP", "PALE", "LATE", "TALE", "PEAT", "TAPE", "EAT"]
+  },
+  {
+    "id": 7,
+    "letters": ["M", "D", "R", "E", "A"],
+    "words": ["DREAM", "DARE", "READ", "DEAR", "MADE", "ARM", "RAM", "ARE", "EAR", "RED"]
+  },
+  {
+    "id": 8,
+    "letters": ["R", "H", "E", "A", "T"],
+    "words": ["HEART", "HATE", "HEAR", "HARE", "RATE", "TEAR", "HEAT", "ART", "EAR", "ATE"]
+  },
+  {
+    "id": 9,
+    "letters": ["D", "L", "C", "O", "U"],
+    "words": ["CLOUD", "COLD", "LOUD", "COD", "DUO"]
+  },
+  {
+    "id": 10,
+    "letters": ["A", "L", "M", "R", "A"],
+    "words": ["ALARM", "RAM", "ARM", "LAM"]
+  },
+  {
+    "id": 11,
+    "letters": ["N", "C", "E", "A", "O"],
+    "words": ["OCEAN", "CANE", "CONE", "ACNE", "CAN", "ACE", "ONE"]
+  },
+  {
+    "id": 12,
+    "letters": ["D", "B", "R", "E", "A"],
+    "words": ["BREAD", "BEAR", "BARE", "BEAD", "DARE", "READ", "DEAR", "BAD", "BED", "ARE"]
+  },
+  {
+    "id": 13,
+    "letters": ["M", "F", "L", "A", "E"],
+    "words": ["FLAME", "LEAF", "MEAL", "LAME", "MALE", "FAME", "ALE", "ELF"]
+  },
+  {
+    "id": 14,
+    "letters": ["G", "T", "I", "E", "R"],
+    "words": ["TIGER", "GRIT", "TIRE", "RITE", "RIG", "TIE", "IRE", "GET"]
+  },
+  {
+    "id": 15,
+    "letters": ["H", "P", "E", "A", "C"],
+    "words": ["PEACH", "CHEAP", "CAPE", "PACE", "HEAP", "EACH", "ACE", "APE"]
+  }
+]

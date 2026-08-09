@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Word Wheel",
+    "slug": "word-wheel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#2E1A47"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.wordwheel.game",
+      "adaptiveIcon": {
+        "backgroundColor": "#2E1A47"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.wordwheel.game",
+      "supportsTablet": false
+    },
+    
+    "extra": {
+      "eas": {
+        "projectId": "c65d72a1-1b6a-4a58-a41d-0fbf11c01cac"
+      }
+    },
+    "owner": "abha123"
+
+  }
+}
